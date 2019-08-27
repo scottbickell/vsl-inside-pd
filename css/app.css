@@ -359,7 +359,6 @@ table.button:active table a {
   a,
   h1,
   p,
-  li,
   div,
   span {
     font-family: 'Open Sans', sans-serif !important; } }
@@ -405,12 +404,6 @@ h1 {
   font-weight: bold;
   margin: 0;
   padding: 0; }
-
-ul.product-details {
-  padding-left: 1.2em; }
-
-.product-details {
-  font-size: 14px; }
 
 .signature p {
   font-size: 14px; }
